@@ -110,7 +110,7 @@ cd AsiaCup2025
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-
+---
 ## Project Structure
 
 ```
@@ -121,7 +121,7 @@ dti/
 ```
 
 ## Citation
-
+----
 ```bibtex
 @article{kousarraza2025asiacup2025,
   title={ Asia Cup 2025: A Structured T20 Match-Level Dataset and Exploratory Analysis for Cricket Analytics},
@@ -130,9 +130,8 @@ dti/
   year={2025}
 }
 ```
-
+----
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-# or from requirements.txt
-pip install -r requirements.txt
+
