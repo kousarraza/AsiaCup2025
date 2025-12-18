@@ -1,4 +1,37 @@
-add your some  more features  from your pervious code , some from i provide  and some more add in details finalized give me code then i will github pages
+# 🏏 Asia Cup 2025: Comprehensive T20 Dataset & Exploratory Analysis
+
+<p align="center">
+  <a href="https://kousarraza.github.io/AsiaCup2025"><img src="https://img.shields.io/badge/🌐-Project%20Page-blue" alt="Project Page"></a>
+  <a href="https://arxiv.org/abs/2512.XXXX"><img src="https://img.shields.io/badge/📄-arXiv%3A2512.XXXX-b31b1b" alt="arXiv"></a>
+  <a href="https://doi.org/10.5281/zenodo.17228056"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17228056.svg" alt="DOI"></a>
+  <a href="https://github.com/kousarraza/AsiaCup2025/blob/main/LICENSE"><img src="https://img.shields.io/badge/📜-License%3A%20CC%20BY%204.0%2FMIT-green" alt="License"></a>
+  <a href="https://github.com/kousarraza/AsiaCup2025/stargazers"><img src="https://img.shields.io/github/stars/kousarraza/AsiaCup2025?style=social&logo=github" alt="GitHub Stars"></a>
+  <a href="https://github.com/kousarraza/AsiaCup2025/network/members"><img src="https://img.shields.io/github/forks/kousarraza/AsiaCup2025?style=social&logo=github" alt="GitHub Forks"></a>
+  <a href="https://github.com/kousarraza/AsiaCup2025/issues"><img src="https://img.shields.io/github/issues/kousarraza/AsiaCup2025" alt="GitHub Issues"></a>
+</p>
+
+<p align="center">
+  <strong>A Complete Dataset and Analysis of the Asia Cup 2025 T20 Cricket Tournament</strong><br>
+  <em>19 Matches • 61 Variables • 22 Visualizations • Open Source</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kousarraza">Kousar Raza</a><sup>1*</sup> · 
+  <a href="https://github.com/faizanali">Faizan Ali</a><sup>2*</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>University of Isfahan, Iran · <sup>2</sup>University of Sindh, Jamshoro, Pakistan
+</p>
+
+<p align="center">
+  <a href="https://kousarraza.github.io/AsiaCup2025">🌐 Live Interactive Report</a> · 
+  <a href="https://github.com/kousarraza/AsiaCup2025/archive/refs/heads/main.zip">📦 Download Dataset</a> · 
+  <a href="#citation">📝 Cite This Work</a> · 
+  <a href="#contact">📧 Contact</a>
+</p>
+
+
 
 ## 📊 Overview
 The **Asia Cup 2025 T20 Dataset** provides a **structured dataset and detailed exploratory analysis** of all 19 matches of the tournament. It contains **61 curated variables per match**, enabling in-depth analysis of teams, players, and match dynamics.  
