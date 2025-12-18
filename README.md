@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/assets/gallery/19_team_performance_heatmap.pn" alt="Team Performance Heatmap" width="800">
+  <img src="/assets/gallery/19_team_performance_heatmap.png" alt="Team Performance Heatmap" width="800">
   <br>
   <em>Team Performance Heatmap - Comprehensive Comparison of All Teams</em>
 </p>
