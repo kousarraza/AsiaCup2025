@@ -108,5 +108,31 @@ cd AsiaCup2025
 
 # Install required packages
 pip install pandas numpy matplotlib seaborn jupyter
+```
+
+
+## Project Structure
+
+```
+dti/
+├── doc/assets/       # Core implementation  
+├── scripts/eda.py       # Visualization script
+└── README/          # Project deatil
+```
+
+## Citation
+
+```bibtex
+@article{kousarraza2025asiacup2025,
+  title={ Asia Cup 2025: A Structured T20 Match-Level Dataset and Exploratory Analysis for Cricket Analytics},
+  author={Kousar Raza, Faizan Ali},
+  journal={arXiv preprint arXiv:2512.13672},
+  year={2025}
+}
+```
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 # or from requirements.txt
 pip install -r requirements.txt
