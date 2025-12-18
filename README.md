@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  <strong>A Complete Dataset and Analysis of the Asia Cup 2025 T20 Cricket Tournament</strong><br>
-  <em>19 Matches • 61 Variables • 22 Visualizations • Open Source</em>
-</p>
-
-<p align="center">
   <a href="https://github.com/kousarraza">Kousar Raza</a><sup>1*</sup> · 
   <a href="https://github.com/faizanali">Faizan Ali</a><sup>2*</sup>
 </p>
@@ -25,7 +20,7 @@
 </p>
 
 
-
+----
 
 ## 📊 Overview
 The **Asia Cup 2025 T20 Dataset** provides a **structured dataset and detailed exploratory analysis** of all 19 matches of the tournament. It contains **61 curated variables per match**, enabling in-depth analysis of teams, players, and match dynamics.  
@@ -79,22 +74,22 @@ The **Asia Cup 2025 T20 Dataset** provides a **structured dataset and detailed e
 ## 🖼️ Visualization Gallery
 
 <p align="center">
-  <img src="images/1_wins_by_team.png" width="45%" alt="Wins by Team">
-  <img src="images/3_wins_vs_losses.png" width="45%" alt="Wins vs Losses">
+  <img src="docs/assets/gallery/1_wins_by_team.png" width="45%" alt="Wins by Team">
+  <img src="docs/assets/gallery/3_wins_vs_losses.png" width="45%" alt="Wins vs Losses">
   <br>
   <em>Team performance and win-loss analysis</em>
 </p>
 
 <p align="center">
-  <img src="images/4_total_sixes_by_team.png" width="45%" alt="Sixes by Team">
-  <img src="images/5_total_boundaries_by_team.png" width="45%" alt="Boundaries by Team">
+  <img src="docs/assets/gallery/4_total_sixes_by_team.png" width="45%" alt="Sixes by Team">
+  <img src="docs/assets/gallery/5_total_boundaries_by_team.png" width="45%" alt="Boundaries by Team">
   <br>
   <em>Batting analysis across teams</em>
 </p>
 
 <p align="center">
-  <img src="images/7_wickets_by_team.png" width="45%" alt="Wickets by Team">
-  <img src="images/8_top_player_of_match.png" width="45%" alt="Player of Match">
+  <img src="docs/assets/gallery/7_wickets_by_team.png" width="45%" alt="Wickets by Team">
+  <img src="docs/assets/gallery/8_top_player_of_match.png" width="45%" alt="Player of Match">
   <br>
   <em>Bowling performance and individual awards</em>
 </p>
