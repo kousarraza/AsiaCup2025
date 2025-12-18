@@ -24,12 +24,6 @@
   <sup>1</sup>University of Isfahan, Iran · <sup>2</sup>University of Sindh, Jamshoro, Pakistan
 </p>
 
-<p align="center">
-  <a href="https://kousarraza.github.io/AsiaCup2025">🌐 Live Interactive Report</a> · 
-  <a href="https://github.com/kousarraza/AsiaCup2025/archive/refs/heads/main.zip">📦 Download Dataset</a> · 
-  <a href="#citation">📝 Cite This Work</a> · 
-  <a href="#contact">📧 Contact</a>
-</p>
 
 
 
